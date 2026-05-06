@@ -1,2 +1,3 @@
 # hello-world
-hey
+yemin ederim öğrenciyim abi...
+adım mustafa selam dünya yazılım öğrencem ben 
